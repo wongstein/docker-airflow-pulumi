@@ -1,0 +1,1 @@
+This is an example of spinning up docker containers for airflow using Pulumi instead of Docker compose
